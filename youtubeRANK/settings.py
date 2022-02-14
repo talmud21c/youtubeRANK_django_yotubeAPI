@@ -125,4 +125,4 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-YOUTUBE_DATA_API_KEY = '404820124324-fg948h45bn492s3tr2tsordofntqliu9.apps.googleusercontent.com'
+YOUTUBE_DATA_API_KEY = 'AIzaSyBKoeIuE-YBM1NYDIEv4chJrRtt_yGq4ic'
